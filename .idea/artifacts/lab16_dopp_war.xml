@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="lab16_dopp:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>lab16_dopp</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="lab16_dopp-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="lab16_dopp:war exploded" />
+    </root>
+  </artifact>
+</component>
